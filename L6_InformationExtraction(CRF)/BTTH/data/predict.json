@@ -1,0 +1,596 @@
+[
+    {
+        "text": "Sau những cơn mưa tại Hà Nội nhiều ngày qua, mặt hồ công viên Bách Thảo bỗng nhuộm một màu vàng, nổi váng như váng dầu.\n",
+        "entities": [
+            {
+                "text": "Hà Nội",
+                "tag": "LOCATION",
+                "start_position": 22,
+                "end_position": 28,
+                "score": 0.6589093655347824
+            }
+        ]
+    },
+    {
+        "text": "Nhiều người dân lạ lẫm, bất ngờ với hiện tượng này.\n",
+        "entities": []
+    },
+    {
+        "text": "Hé lộ nguyên nhân khiến mặt hồ công viên Bách Thảo bỗng đổi màu kỳ lạ\n",
+        "entities": []
+    },
+    {
+        "text": "\"Sáng 14.8, tại Hội trường Thống Nhất TPHCM đã diễn ra trọng thể lễ viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": []
+    },
+    {
+        "text": "TPHCM tổ chức trọng thể lễ viếng nguyên Tổng Bí thư Lê Khả Phiêu\n",
+        "entities": [
+            {
+                "text": "Lê Khả Phiêu",
+                "tag": "PERSON",
+                "start_position": 52,
+                "end_position": 64,
+                "score": 0.5731076796849569
+            }
+        ]
+    },
+    {
+        "text": "Sáng 14.8, tại Hội trường Thống Nhất TPHCM đã diễn ra trọng thể lễ viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": []
+    },
+    {
+        "text": "Đến viếng tang lễ nguyên Tổng Bí thư Lê Khả Phiêu vào sáng nay tại TPHCM có đồng chí Nguyễn Thiện Nhân, Ủy viên Bộ Chính trị, Bí Thư Thành ủy TPHCM.\n",
+        "entities": [
+            {
+                "text": "Lê Khả",
+                "tag": "PERSON",
+                "start_position": 37,
+                "end_position": 43,
+                "score": 0.5814124345779419
+            },
+            {
+                "text": "Nguyễn Thiện Nhân",
+                "tag": "PERSON",
+                "start_position": 85,
+                "end_position": 102,
+                "score": 0.6788825293382009
+            }
+        ]
+    },
+    {
+        "text": "đồng chí Nguyễn Văn Nên, Bí thư Trung ương Đảng, Chánh Văn phòng Trung ương Đảng.\n",
+        "entities": [
+            {
+                "text": "Nguyễn Văn Nên",
+                "tag": "PERSON",
+                "start_position": 9,
+                "end_position": 23,
+                "score": 0.8802048961321512
+            },
+            {
+                "text": "Trung ương",
+                "tag": "LOCATION",
+                "start_position": 32,
+                "end_position": 42,
+                "score": 0.6598937511444092
+            }
+        ]
+    },
+    {
+        "text": "đồng chí Trương Vĩnh Trọng, nguyên Ủy viên Bộ Chính trị, nguyên Phó Thủ tướng Chính phủ.\n",
+        "entities": [
+            {
+                "text": "Trương Vĩnh Trọng",
+                "tag": "PERSON",
+                "start_position": 9,
+                "end_position": 26,
+                "score": 0.7084641257921854
+            }
+        ]
+    },
+    {
+        "text": "đồng chí Trương Mỹ Hoa, nguyên Phó Chủ tịch Nước và nhiều đồng chí nguyên là Ủy viên Trung ương Đảng, lão thành cách mạng đang sinh sống tại TPHCM, đại diện các tổ chức chính trị - xã hội, lực lượng vũ trang, các ban, ngành, đoàn thể, tôn giáo và đông đảo người dân…\n",
+        "entities": [
+            {
+                "text": "Trương Mỹ Hoa",
+                "tag": "PERSON",
+                "start_position": 9,
+                "end_position": 22,
+                "score": 0.6467688977718353
+            }
+        ]
+    },
+    {
+        "text": "Thay mặt Đảng bộ, chính quyền, nhân dân TPHCM, đồng chí Nguyễn Thiện Nhân trân trọng viết trong sổ tang: Đảng bộ, chính quyền, nhân dân TPHCM vô cùng thương tiếc, tưởng nhớ đồng chí Lê Khả Phiêu, nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng, người Cộng sản chân chính, kiên trung, ngời sáng nhân cách “Bộ đội Cụ Hồ”, một cuộc đời hoạt động cách mạng sôi nổi, đầy tâm huyết, một nhà lãnh đạo tài năng, có tác phong giản dị, gần gũi mọi người, thương dân, trọng dân, luôn đau đáu việc Đảng, việc nước, việc dân.\n",
+        "entities": [
+            {
+                "text": "Nguyễn Thiện Nhân",
+                "tag": "PERSON",
+                "start_position": 56,
+                "end_position": 73,
+                "score": 0.7531402111053467
+            },
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 178,
+                "end_position": 188,
+                "score": 0.6186815798282623
+            }
+        ]
+    },
+    {
+        "text": "Với gần 90 năm tuổi đời, hơn 70 năm tuổi Đảng, đồng chí Lê Khả Phiêu hết lòng phụng sự Tổ quốc, phục vụ nhân dân, đảm nhận trọng trách Tổng Bí thư trong giai đoạn đất nước phải tiếp tục đẩy mạnh hơn nữa, toàn diện hơn nữa công cuộc đổi mới.\n",
+        "entities": [
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 52,
+                "end_position": 62,
+                "score": 0.7433132330576578
+            }
+        ]
+    },
+    {
+        "text": "Với trí tuệ và bản lĩnh kiên cường, đồng chí đã cùng Bộ Chính trị, Trung ương Đảng lãnh đạo đất nước kiên định đi theo con đường cách mạng mà Chủ tịch Hồ Chí Minh đã dẫn dắt, trực tiếp góp phần thúc đẩy đổi mới đất nước về mọi mặt, đã để lại dấu ấn đậm nét trong công tác xây dựng Đảng, chỉnh đốn Đảng.\n",
+        "entities": [
+            {
+                "text": "Hồ Chí Minh",
+                "tag": "PERSON",
+                "start_position": 151,
+                "end_position": 162,
+                "score": 0.5962762633959452
+            }
+        ]
+    },
+    {
+        "text": "Đảng bộ, chính quyền và nhân dân TPHCM luôn trân trọng khắc ghi sự quan tâm, lãnh đạo và tình cảm sâu sắc của đồng chí đối với quá trình cách mạng của thành phố.\n",
+        "entities": []
+    },
+    {
+        "text": "Kính cẩn nghiêng mình vĩnh biệt đồng chí, chúng ta nguyện nỗ lực phấn đấu sớm thực hiện những lời căn dặn và mong muốn của đồng chí đối với Đảng bộ, chính quyền, nhân dân thành phố mang tên Bác, sẽ “đi trước, về đích trước” trong sự nghiệp xây dựng và bảo vệ Tổ quốc.\"\n",
+        "entities": []
+    },
+    {
+        "text": "\"Các đồng chí lãnh đạo Đảng, Nhà nước đã xúc động ghi những dòng sổ tang viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": []
+    },
+    {
+        "text": "Xúc động những dòng sổ tang viếng nguyên Tổng Bí thư Lê Khả Phiêu\n",
+        "entities": [
+            {
+                "text": "Lê Khả Phiêu",
+                "tag": "PERSON",
+                "start_position": 53,
+                "end_position": 65,
+                "score": 0.5554461280504862
+            }
+        ]
+    },
+    {
+        "text": "Các đồng chí lãnh đạo Đảng, Nhà nước đã xúc động ghi những dòng sổ tang viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": []
+    },
+    {
+        "text": "Sáng 14.8, tại Nhà tang lễ quốc gia, số 5 Trần Thánh Tông, Hà Nội, Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, Quốc hội nước Cộng hoà Xã hội Chủ nghĩa Việt Nam, Chủ tịch Nước Cộng hoà Xã hội Chủ nghĩa Việt Nam, Chính phủ nước Cộng hoà Xã hội Chủ nghĩa Việt Nam, Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam tổ chức Lễ viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": [
+            {
+                "text": "số 5 Trần Thánh Tông ,",
+                "tag": "LOCATION",
+                "start_position": 37,
+                "end_position": 58,
+                "score": 0.4858110000689824
+            },
+            {
+                "text": "Hà Nội",
+                "tag": "LOCATION",
+                "start_position": 59,
+                "end_position": 65,
+                "score": 0.7087569683790207
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 106,
+                "end_position": 114,
+                "score": 0.6365974098443985
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 156,
+                "end_position": 164,
+                "score": 0.6109769940376282
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 206,
+                "end_position": 214,
+                "score": 0.6725021153688431
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 257,
+                "end_position": 265,
+                "score": 0.6608792096376419
+            },
+            {
+                "text": "Uỷ ban Trung ương Mặt trận Tổ quốc Việt Nam",
+                "tag": "ORGANIZATION",
+                "start_position": 267,
+                "end_position": 310,
+                "score": 0.6230047196149826
+            }
+        ]
+    },
+    {
+        "text": "Đúng 8h ngày 14.8, lễ viếng nguyên Tổng Bí thư Lê Khả Phiêu bắt đầu.\n",
+        "entities": [
+            {
+                "text": "ngày 14.8",
+                "tag": "DATETIME",
+                "start_position": 8,
+                "end_position": 17,
+                "score": 0.8305794894695282
+            }
+        ]
+    },
+    {
+        "text": "Tổng Bí thư, Chủ tịch Nước Nguyễn Phú Trọng gửi vòng hoa viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": [
+            {
+                "text": "Nguyễn Phú Trọng",
+                "tag": "PERSON",
+                "start_position": 27,
+                "end_position": 43,
+                "score": 0.9223891496658325
+            },
+            {
+                "text": "Lê Khả",
+                "tag": "PERSON",
+                "start_position": 82,
+                "end_position": 88,
+                "score": 0.49583975970745087
+            }
+        ]
+    },
+    {
+        "text": "Vòng hoa mang dòng chữ: \"\"Vô cùng thương tiếc đồng chí Lê Khả Phiêu\"\".\n",
+        "entities": [
+            {
+                "text": "Lê Khả",
+                "tag": "PERSON",
+                "start_position": 55,
+                "end_position": 61,
+                "score": 0.5951570272445679
+            }
+        ]
+    },
+    {
+        "text": "Các đoàn Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 48,
+                "end_position": 56,
+                "score": 0.681423082947731
+            }
+        ]
+    },
+    {
+        "text": "đoàn Chính phủ Nước Cộng hoà XHCN Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 34,
+                "end_position": 42,
+                "score": 0.7351241409778595
+            }
+        ]
+    },
+    {
+        "text": "đoàn Quốc hội Nước Cộng hoà XHCN Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 33,
+                "end_position": 41,
+                "score": 0.7202277332544327
+            }
+        ]
+    },
+    {
+        "text": "đoàn Chủ tịch Nước Cộng hoà XHCN Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 33,
+                "end_position": 41,
+                "score": 0.7193603664636612
+            }
+        ]
+    },
+    {
+        "text": "đoàn Uỷ ban Trung ương MTTQ Việt Nam... vào viếng nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": [
+            {
+                "text": "Uỷ ban Trung ương MTTQ Việt Nam",
+                "tag": "ORGANIZATION",
+                "start_position": 5,
+                "end_position": 36,
+                "score": 0.6876456950392041
+            }
+        ]
+    },
+    {
+        "text": "Thủ tướng Nguyễn Xuân Phúc xúc động ghi sổ tang: “Xin kính cẩn nghiêng mình tiễn đưa đồng chí Lê Khả Phiêu – Nhà lãnh đạo xuất sắc, có uy tín lớn của Đảng, Nhà nước và Nhân dân ta.\n",
+        "entities": [
+            {
+                "text": "Nguyễn Xuân Phúc",
+                "tag": "PERSON",
+                "start_position": 10,
+                "end_position": 26,
+                "score": 0.8742616573969523
+            },
+            {
+                "text": "Lê Khả",
+                "tag": "PERSON",
+                "start_position": 94,
+                "end_position": 100,
+                "score": 0.5267296582460403
+            }
+        ]
+    },
+    {
+        "text": "Đồng chí Lê Khả Phiêu mất đi là một tổn thất to lớn đối với Đảng, Nhà nước, Quân đội, Nhân dân ta, bạn bè, đồng chí, đồng đội và Gia quyến đồng chí.\n",
+        "entities": [
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 5,
+                "end_position": 15,
+                "score": 0.658312976360321
+            }
+        ]
+    },
+    {
+        "text": "đồng thời để lại niềm tiếc thương sâu sắc trong lòng bạn bè quốc tế.\n",
+        "entities": []
+    },
+    {
+        "text": "Xin nguyện noi gương đồng chí, tay nắm chặt tay, đoàn kết một lòng, vững bước tiến lên trên con đường cách mạng, ra sức phấn đấu vì mục tiêu xây dựng một nước Việt Nam “dân giàu, nước mạnh, dân chủ, công bằng, văn minh”.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 159,
+                "end_position": 167,
+                "score": 0.783622682094574
+            }
+        ]
+    },
+    {
+        "text": "Xin vĩnh biệt người đồng chí, người Anh quý mến, mong Anh mãi bằng an yên nghỉ nơi cao xanh, vĩnh hằng”.\n",
+        "entities": [
+            {
+                "text": "bằng an yên",
+                "tag": "LOCATION",
+                "start_position": 62,
+                "end_position": 73,
+                "score": 0.484575351079305
+            }
+        ]
+    },
+    {
+        "text": "Chủ tịch Quốc hội Nguyễn Thị Kim Ngân ghi sổ tang: Vô cùng thương tiếc đồng chí Nguyên Tổng Bí thư Lê Khả Phiêu.\n",
+        "entities": [
+            {
+                "text": "Nguyễn Thị Kim",
+                "tag": "PERSON",
+                "start_position": 18,
+                "end_position": 32,
+                "score": 0.8033433357874552
+            },
+            {
+                "text": "Lê Khả",
+                "tag": "PERSON",
+                "start_position": 99,
+                "end_position": 105,
+                "score": 0.5164760053157806
+            }
+        ]
+    },
+    {
+        "text": "Đồng chí là một người cộng sản chân chính, đã cống hiến cuộc đời cho sự nghiệp cách mạng Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 89,
+                "end_position": 97,
+                "score": 0.8017567694187164
+            }
+        ]
+    },
+    {
+        "text": "Đồng chí là một nhà lãnh đạo tâm huyết, trách nhiệm, nhà chính trị, quân sự đã có nhiều đóng góp cho sự nghiệp xây dựng Đảng, phát triển đất nước.\n",
+        "entities": []
+    },
+    {
+        "text": "Ghi sổ tang, Phó Chủ tịch Nước Đặng Thị Ngọc Thịnh viết: “Vô cùng thương tiếc đồng chí Lê Khả Phiêu - nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam, nhà lãnh đạo xuất sắc, giản dị, gần gũi.\n",
+        "entities": [
+            {
+                "text": "Đặng Thị Ngọc Thịnh",
+                "tag": "PERSON",
+                "start_position": 31,
+                "end_position": 50,
+                "score": 0.7671596109867096
+            },
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 83,
+                "end_position": 93,
+                "score": 0.6354690194129944
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 160,
+                "end_position": 168,
+                "score": 0.7089421153068542
+            }
+        ]
+    },
+    {
+        "text": "Đồng chí đã trọn đời cống hiến và đóng góp to lớn vào sự nghiệp cách mạng vẻ vang của Đảng, Nhà nước, Quân đội và Nhân dân ta.\n",
+        "entities": []
+    },
+    {
+        "text": "Học tập và noi gương đồng chí Lê Khả Phiêu - Chúng tôi nguyện đoàn kết, chung sức, đồng lòng xây dựng đất nước Việt Nam phát triển bền vững và bảo vệ vững chắc Tổ quốc Việt Nam xã hội chủ nghĩa.\n",
+        "entities": [
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 26,
+                "end_position": 36,
+                "score": 0.6566502352555593
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 111,
+                "end_position": 119,
+                "score": 0.8678852021694183
+            },
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 168,
+                "end_position": 176,
+                "score": 0.6062531173229218
+            }
+        ]
+    },
+    {
+        "text": "Xin kính cẩn nghiêng mình trước anh linh đồng chí.\n",
+        "entities": []
+    },
+    {
+        "text": "Xin thành kính gửi đến gia đình đồng chí lời chia buồn sâu sắc nhất”.\n",
+        "entities": []
+    },
+    {
+        "text": "Ghi sổ tang, Bí thư Trung ương Đảng, Chủ tịch Uỷ ban Trung ương MTTQ Việt Nam Trần Thanh Mẫn viết: \"\"Xin bày tỏ lòng thương tiếc vô hạn trước sự ra đi của đồng chí Lê Khả Phiêu, nguyên Tổng Bí thư Ban Chấp hành Trung ương Đảng khóa VIII.\n",
+        "entities": [
+            {
+                "text": "Uỷ ban Trung ương MTTQ Việt Nam",
+                "tag": "ORGANIZATION",
+                "start_position": 46,
+                "end_position": 77,
+                "score": 0.6751772165298462
+            },
+            {
+                "text": "Trần Thanh Mẫn",
+                "tag": "PERSON",
+                "start_position": 78,
+                "end_position": 92,
+                "score": 0.7221718827883402
+            },
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 160,
+                "end_position": 170,
+                "score": 0.5778094331423441
+            }
+        ]
+    },
+    {
+        "text": "Ủy viên Thường vụ, Thường trực Bộ Chính trị khóa VIII.\n",
+        "entities": []
+    },
+    {
+        "text": "Ủy viên Bộ Chính trị khóa VII, khóa VIII.\n",
+        "entities": []
+    },
+    {
+        "text": "Bí thư Trung ương Đảng khóa VII.\n",
+        "entities": []
+    },
+    {
+        "text": "Ủy viên Ban Chấp hành Trung ương Đảng các khóa VII, VIII.\n",
+        "entities": []
+    },
+    {
+        "text": "Đại biểu Quốc hội khóa IX, khóa X.\n",
+        "entities": []
+    },
+    {
+        "text": "Hơn 70 năm hoạt động cách mạng, Đồng chí đã có nhiều đóng góp to lớn đối với sự nghiệp cách mạng vẻ vang của Đảng, của dân tộc và Quân đội nhân dân Việt Nam.\n",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 148,
+                "end_position": 156,
+                "score": 0.69354647397995
+            }
+        ]
+    },
+    {
+        "text": "Đồng chí mất đi là một tổn thất to lớn đối với Đảng, Nhà nước và nhân dân ta, để lại niềm tiếc thương sâu sắc đối với tất cả chúng ta.\n",
+        "entities": []
+    },
+    {
+        "text": "Xin kính cẩn nghiêng mình trước anh linh đồng chí Lê Khả Phiêu.\n",
+        "entities": [
+            {
+                "text": "chí Lê Khả",
+                "tag": "PERSON",
+                "start_position": 46,
+                "end_position": 56,
+                "score": 0.7278397679328918
+            }
+        ]
+    },
+    {
+        "text": "Xin gửi tới gia quyến lời chia buồn sâu sắc nhất.\n",
+        "entities": []
+    },
+    {
+        "text": "Xin vĩnh biệt người anh, người đồng chí kính mến\"\".\"\n",
+        "entities": []
+    },
+    {
+        "text": "\"Dù mức tăng khá khiêm tốn, giá vàng trên thị trường thế giới đang có được ngày tăng thứ hai liên tiếp.\n",
+        "entities": []
+    },
+    {
+        "text": "Giá vàng tăng mạnh trở lại ngày thứ hai liên tiếp\n",
+        "entities": []
+    },
+    {
+        "text": "Dù mức tăng khá khiêm tốn, giá vàng trên thị trường thế giới đang có được ngày tăng thứ hai liên tiếp.\n",
+        "entities": []
+    },
+    {
+        "text": "Chốt phiên giao dịch vào trưa nay 13.8, theo giờ Việt Nam, giá vàng trên thị trường thế giới được giao dịch ở mức giá 1.913,9 USD/ounce, tăng nhẹ 3,9 USD so với giá đóng cửa của ngày hôm trước.",
+        "entities": [
+            {
+                "text": "Việt Nam",
+                "tag": "LOCATION",
+                "start_position": 49,
+                "end_position": 57,
+                "score": 0.5300675630569458
+            }
+        ]
+    }
+]
